@@ -9,15 +9,17 @@
 |Author|白发老书生|
 |---|---
 |E-mail|请提交issue方便其他人查看
-> 最近更新至第26章节（共30章节）：2024-09-05
+> 最近更新至第26章节（共30章节）：2024-10-05
 
 ****
-### 失效链接已更新(开放下载链接) 2024-09-05
+### 失效链接已更新(开放下载链接) 2024-10-05
 
 链接:  
 ****
 24期：链接: https://pan.baidu.com/s/1Q9ZFKk81P42T6CVyJzp9dA?pwd=b7ju 提取码: b7ju
+
 37期：链接: https://pan.baidu.com/s/1hKF6ZSiFQk79-BDb6b7TFA?pwd=8wb1 提取码: 8wb1 
+
 下载后的讲义解压密码：BJ黑马python培训第24期
 ****
 
@@ -35,9 +37,14 @@
 
 > 讲义文档，百度云下载
 
+链接:  
+****
 24期：链接: https://pan.baidu.com/s/1Q9ZFKk81P42T6CVyJzp9dA?pwd=b7ju 提取码: b7ju
+
 37期：链接: https://pan.baidu.com/s/1hKF6ZSiFQk79-BDb6b7TFA?pwd=8wb1 提取码: 8wb1 
+
 下载后的讲义解压密码：BJ黑马python培训第24期
+****
 
 <h2 id="catalog">目录</h2>
 
